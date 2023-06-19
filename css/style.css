@@ -92,6 +92,19 @@ margin-top: 100px;
     margin-top: -0.1px;
 }
 
+.Markup {
+    font-weight: 900;
+    text-align: center;
+    margin-top: 100px;
+    margin-top: -0.1px;
+}
 
+.img {
+    margin-top: 20px;
+}
 
-
+.style-text {
+    color: green;
+    background: rgb(213, 210, 210);
+    display: inline;
+}
